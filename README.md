@@ -34,8 +34,8 @@
   </div>
 <br>
 <div>
-<img  style="height: 100px;" src="https://github-readme-stats.vercel.app/api?username=dolahee&show_icons=true">
-<img style="height: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolahee&layout=compact">
+<img  style="height: 130px;" src="https://github-readme-stats.vercel.app/api?username=dolahee&show_icons=true">
+<img style="height: 130px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolahee&layout=compact">
 </div>
   
 </div>
