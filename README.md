@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=😈Dohee😈&fontSize=90" />
   
   <img src="https://mblogthumb-phinf.pstatic.net/20160702_79/ho809_14674072999699wbAe_GIF/anigif1.gif?type=w2" /><br>
-  <a href="https://velog.io/@dolahee"> <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/> </a>
+
   
 <h1>  📚Tech Stack📚 </h1>
 
@@ -37,6 +37,7 @@
   
   <div>
     <h2> 📭Contact📭</h2>
+      <a href="https://velog.io/@dolahee"> <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/> </a>
      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white"/>
      <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white"/>
   </div>
