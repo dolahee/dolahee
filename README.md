@@ -16,12 +16,17 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=plastic&logo=Socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/MUI-007FFF?style=plastic&logo=MUI&logoColor=white"/>  
+ 
 
 </div>
 
 <div>
 <h2> 🛠️Tools🛠️  </h2>
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/>
+ <img src="https://img.shields.io/badge/WebRTC-333333?style=plastic&logo=WebRTC&logoColor=white"/>   
  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/>
  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=plastic&logo=Adobe Photoshop&logoColor=white"/> <br>
  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=plastic&logo=Adobe Premiere Pro&logoColor=white"/>
