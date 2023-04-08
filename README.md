@@ -10,7 +10,7 @@
 <h2> ✨Platforms & Languages✨</h2>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/> </br>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket.io-010101?style=plastic&logo=Socket.io&logoColor=white"/>
